@@ -22,7 +22,7 @@ Sales director wants to know the performance of the company in various Indian st
 - Q5. Net Profit & Profit Margin by Market
 
 ### Data Analysis Approach
-<p  align="center"><a href="https://github.com/tejaswar2004"><img width="80%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/flow.jpg" /></a></p>
+<p  align="center"><img width="80%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/flow.jpg" /></p>
 
 ### Setup Process
   
