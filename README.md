@@ -22,7 +22,7 @@ Sales director wants to know the performance of the company in various Indian st
 - Q5. Net Profit & Profit Margin by Market
 
 ### Data Analysis Approach
-<p  align="center"><a href="https://github.com/tejaswar2004"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
+<p  align="center"><a href="https://github.com/tejaswar2004"><img width="80%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/flow.jpg" /></a></p>
 
 ### Setup Process
   
@@ -72,4 +72,20 @@ Step 5: Save the file as (.twb or .twbx)
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
 
-**Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://prod-apnortheast-a.online.tableau.com/#/site/lingareddy1211021239a6093a36/workbooks/1754497/datasources)
+## Data Analysis Using Tableau
+### Tableau Public Dashboards: [Revenue & Profit Analysis](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+#### Creating Star Schema in Tableau
+<p  align="center"><img width="80%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/Star%20Schema.png" /></p>
+
+#### Tableau Dashboard - [Revenue Analysis](https://prod-apnortheast-a.online.tableau.com/t/lingareddy1211021239a6093a36/authoring/SalesInsights-DataAnalysisProjectusingTableau/Dashboard-RevenueAnalysis#1)
+	
+<p  align="center"><img width="100%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
+
+#### Tableau Dashboard - [Profit Analysis](https://prod-apnortheast-a.online.tableau.com/t/lingareddy1211021239a6093a36/authoring/SalesInsights-DataAnalysisProjectusingTableau/Dashboard-ProfitAnalysis#3)
+	
+<p  align="center"><img width="100%" src="https://github.com/tejaswar2004/DataAnalysis-using-mysql-and-Tableau/blob/main/images/Tableau%20Dashbpard%20Profit%20Analysis.png" /></a></p>
+
+
+
+
