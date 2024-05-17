@@ -68,3 +68,5 @@ Step 5: Save the file as (.twb or .twbx)
 1. Show total revenue in year 2020 in Chennai.
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
+
+**Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://prod-apnortheast-a.online.tableau.com/#/site/lingareddy1211021239a6093a36/workbooks/1754497/datasources)
